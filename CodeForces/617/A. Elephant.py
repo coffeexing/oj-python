@@ -8,5 +8,6 @@ result = s1 + s2 + s3 + s4 + s5
 print(result)
 
 # concise
+#
 # x = int(input())
 # print((x + 4) // 5)
