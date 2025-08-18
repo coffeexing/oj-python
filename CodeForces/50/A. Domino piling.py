@@ -1,0 +1,4 @@
+M, N = map(int, input().split())
+S = M * N
+
+print(S // 2)
