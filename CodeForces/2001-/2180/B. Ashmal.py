@@ -4,7 +4,7 @@ for _ in range(t):
     n = int(input())
     s = ''
     for i in range(n):
-        a = input
+        a = input()
         if s == '':
             s = a
         elif a + s < s:
